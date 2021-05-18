@@ -1,4 +1,4 @@
-<img src="media\image1.jpg" style="width:1.49914in;height:0.27484in" />
+<img src="images\image1.jpg" style="width:1.49914in;height:0.27484in" />
 
 **<span class="smallcaps">Open Source Contribution Code of
 Conduct</span>**
