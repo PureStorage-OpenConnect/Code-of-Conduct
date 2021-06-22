@@ -3,9 +3,10 @@
 **<span class="smallcaps">Open Source Contribution Code of
 Conduct</span>**
 
-This code of conduct outlines expectations for those who are
-participating in Pure Storage Open Connect. We are committed to
-providing a welcoming and inspiring community for all.
+This code of conduct outlines expectations for those who are 
+participating in Pure Storage Open Connect, Partner Connect, 
+Pure GitHub and Slack. We are committed to providing a welcoming 
+and inspiring community for all.
 
 -   Be friendly and patient: Remember you might not be communicating in
     > someone else’s primary spoken or programming language, and others
