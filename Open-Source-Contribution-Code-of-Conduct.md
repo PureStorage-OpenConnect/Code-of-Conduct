@@ -1,11 +1,11 @@
 <img src="images\image1.jpg" style="width:1.49914in;height:0.27484in" />
 
-**<span class="smallcaps">Open Source Contribution Code of
+**<span class="smallcaps">Everpure Open Source Contribution Code of
 Conduct</span>**
 
 This code of conduct outlines expectations for those who are 
-participating in Pure Storage Open Connect, Partner Connect, 
-Pure GitHub and Slack. We are committed to providing a welcoming 
+participating in Everpure Open Connect, Partner Connect, Connect, and 
+Everpure GitHub. We are committed to providing a welcoming 
 and inspiring community for all.
 
 -   Be friendly and patient: Remember you might not be communicating in
@@ -42,12 +42,12 @@ and inspiring community for all.
 -   Respect privacy: Please refrain from sharing any personal
     > identifiable information about yourself or anyone else. Pure
     > respects personal privacy and follows all applicable laws per
-    > Pure’s [<u>privacy
-    > policy</u>](https://www.purestorage.com/privacy.html).
+    > Everpure’s [<u>privacy
+    > policy</u>](https://www.everpuredata.com/privacy.html).
 
 -   This code is not exhaustive or complete. It serves to capture our
     > common understanding of a productive, collaborative environment.
 
 -   We encourage all participants to resolve issues on their own
     > whenever possible. In the event that an issue cannot be resolved
-    > locally, please feel free to contact us at legal@purestorage.com.
+    > locally, please feel free to contact us at legal@everpuredata.com.
