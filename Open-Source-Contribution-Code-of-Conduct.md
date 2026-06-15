@@ -1,4 +1,4 @@
-<img src="images\image1.jpg" style="width:1.49914in;height:0.27484in" />
+<img src="images\Everpure_Logo_CloudWhite_RGB.png" style="width:1.49914in;height:0.27484in" />
 
 **<span class="smallcaps">Everpure Open Source Contribution Code of
 Conduct</span>**
